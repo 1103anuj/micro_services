@@ -62,12 +62,7 @@ It demonstrates **inter-service communication, resilience, and fault tolerance**
 - [Maven Build Tool](https://maven.apache.org/)  
 - [Microservices Architecture Guide](https://microservices.io/) 
 
-## ⚡ Usage
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/microservices-project.git
 
 
  
